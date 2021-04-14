@@ -21,7 +21,7 @@ After quiting ur attendance will be stored in a csv file as well as in a mysql d
 
 **p.s
 you might have to create the db and table by urself if its create by itself
-the following is the description of the table** \ 
+the following is the description of the table** 
 </br>
 +---------------+--------------+------+-----+---------+  \
 | Field         | Type         | Null | Key | Default |  \
