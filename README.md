@@ -23,12 +23,12 @@ After quiting ur attendance will be stored in a csv file as well as in a mysql d
 you might have to create the db and table by urself if its create by itself
 the following is the description of the table** 
 </br>
-|---------------+--------------|  \
-|    Field      |     Type     | \
-|---------------|--------------|  \
-|    Id         | varchar(255) |  \
-|    NAME       | varchar(255) |   \
-| DATEOFARRIVAL | date         |   \
-|    TIME       | varchar(255) |   \
+
+|    Field      |     Type     | 
+|---------------|--------------|  
+|    Id         | varchar(255) |  
+|    NAME       | varchar(255) |  
+| DATEOFARRIVAL | date         |   
+|    TIME       | varchar(255) |   
 </br>
 ***you need to change the mysql username and password in train.py for the program to connect to database.*** 
