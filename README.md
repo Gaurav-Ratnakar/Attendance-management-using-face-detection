@@ -30,5 +30,5 @@ the following is the description of the table**
 |    NAME       | varchar(255) |  
 | DATEOFARRIVAL | date         |   
 |    TIME       | varchar(255) |   
-</br>
-**you need to change the mysql username and password in train.py for the program to connect to database. ** 
+
+**you need to change the mysql username and password in train.py for the program to connect to database.** 
